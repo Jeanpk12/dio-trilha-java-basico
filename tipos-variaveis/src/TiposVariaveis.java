@@ -6,5 +6,8 @@ public class TiposVariaveis {
         double altura = 1.83; // Tipo double armazena números fracionados
         boolean casado = false; // Tipo boolean armazena valores lógicos
         // Existem outros tipos de dados primitivos, mas esses são os mais utilizados no dia a dia
+
+        // Também podemos declara constantes em java utilizando a palavra reservada "final"
+        final double PI = 3.14;
     }
 }
